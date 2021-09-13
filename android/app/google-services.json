@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936190835270",
+    "project_id": "classbooking-aa4bf",
+    "storage_bucket": "classbooking-aa4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936190835270:android:2f3bf522ab4febd641e847",
+        "android_client_info": {
+          "package_name": "com.example.classbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936190835270-beq77tv40tjtr7abqr4j2nei6lscbhri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RqCwV2zGMBoq9ndYdvVeG5iYtCmEbIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936190835270-beq77tv40tjtr7abqr4j2nei6lscbhri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
